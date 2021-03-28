@@ -21,4 +21,4 @@
  
 4 **Simulation Video**
  
- ![Youtube Project link](https://www.youtube.com/watch?v=3tZD3g2ydt8)
+ [Youtube Project link](https://www.youtube.com/watch?v=3tZD3g2ydt8)

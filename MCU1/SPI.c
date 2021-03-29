@@ -38,14 +38,4 @@ Uint8t SPI_Receive(void)
 	return SPDR;
 }
 
-void SPI_SlaveSelect(Uint8t slave)
-{
-	switch (slave)
-	{
-		case 0:
-		CLR_BIT(PORTB, SS);
-		break;
-		case 1:
-		break;
-	}
-}
+

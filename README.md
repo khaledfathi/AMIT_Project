@@ -16,7 +16,11 @@
 > **depened on what UART recived , the MCU1 will Commuincate with MCU2 via SPI protocol then control 3 LEDS connected with it** 
 > **each MCU has LCD to view the process** 
 
-3 **Flow Chart**
+3 **Code Files Structure**
+
+![MCU1_FlowChart](https://raw.githubusercontent.com/khaledfathi/AMIT_Project/main/images/structure.jpg)
+
+4 **Flow Chart**
 
 **MCU1**
 
@@ -26,9 +30,9 @@
   
  ![MCU1_FlowChart](https://raw.githubusercontent.com/khaledfathi/AMIT_Project/main/images/MCU2_FC.jpg)
  
-3 **Code Files**
+5 **Code Files**
   > **There's two MCUs directory that containe Source Code , for MCU1 and MCU2**
  
-4 **Simulation Video**
+6 **Simulation Video**
  
  [Youtube Project link](https://www.youtube.com/watch?v=3tZD3g2ydt8)

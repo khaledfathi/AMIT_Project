@@ -18,7 +18,7 @@
 
 3 **Code Files Structure**
 
-![MCU1_FlowChart](https://raw.githubusercontent.com/khaledfathi/AMIT_Project/main/images/structure3.jpg)
+![MCU1_FlowChart](https://raw.githubusercontent.com/khaledfathi/AMIT_Project/main/images/structure4.jpg)
 
 4 **Flow Chart**
 

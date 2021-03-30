@@ -28,7 +28,7 @@
  
  **MCU2**
   
- ![MCU1_FlowChart](https://raw.githubusercontent.com/khaledfathi/AMIT_Project/main/images/MCU2_FC.jpg)
+ ![MCU1_FlowChart](https://raw.githubusercontent.com/khaledfathi/AMIT_Project/main/images/mcu2_.jpg)
  
 5 **Code Files**
   > **There's two MCUs directory that containe Source Code , for MCU1 and MCU2**

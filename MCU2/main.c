@@ -57,7 +57,7 @@ int main (){
 		case '@' :
 			LED_ON(1); LED_ON(2); LED_ON(3);
 			LCD_Clear();
-			LCD_Write_String((Uint8t*)"  ALL LEDS OFF");
+			LCD_Write_String((Uint8t*)"  ALL LEDS ON");
 		break;
 		case '#' :
 			LED_OFF(1); LED_OFF(2); LED_OFF(3);
